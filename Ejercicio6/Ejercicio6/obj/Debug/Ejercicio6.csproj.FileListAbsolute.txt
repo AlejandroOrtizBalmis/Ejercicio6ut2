@@ -1,0 +1,15 @@
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csprojAssemblyReference.cache
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\MainWindow.g.cs
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\App.g.cs
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6_MarkupCompile.cache
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6_MarkupCompile.lref
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\MainWindow.baml
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.g.resources
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.Properties.Resources.resources
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.GenerateResource.cache
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+C:\Users\alext\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb

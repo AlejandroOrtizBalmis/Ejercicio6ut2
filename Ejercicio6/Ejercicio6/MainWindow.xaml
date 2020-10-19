@@ -1,0 +1,40 @@
+﻿<Window x:Class="Ejercicio6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio6"
+        mc:Ignorable="d"
+        Title="Opacidad"
+        Height="450"
+        Icon="opacity.ico"
+        Width="781.064"
+        >
+    <Grid>
+        <Image HorizontalAlignment="Left"
+               Height="297"
+               Margin="272,60,0,0"
+               VerticalAlignment="Top"
+               Source="episodioV.jpg"
+               Opacity="0.5"
+               IsMouseDirectlyOverChanged="Image_IsMouseDirectlyOverChanged"
+               Width="197" />
+        <Image HorizontalAlignment="Left"
+               Height="297"
+               Margin="56,60,0,0"
+               VerticalAlignment="Top"
+               Source="episodioIV.jpg"
+               Opacity="0.5"
+               IsMouseDirectlyOverChanged="Image_IsMouseDirectlyOverChanged"
+               Width="197" />
+        <Image HorizontalAlignment="Left"
+               Height="297"
+               Margin="501,60,0,0"
+               VerticalAlignment="Top"
+               Source="episodioVI.jpg"
+               Opacity="0.5"
+               IsMouseDirectlyOverChanged="Image_IsMouseDirectlyOverChanged"
+               Width="197" />
+
+    </Grid>
+</Window>
